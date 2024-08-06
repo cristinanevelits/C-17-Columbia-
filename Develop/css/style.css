@@ -1,6 +1,6 @@
 /* reset some basic elements for better consistency */
 html {
-    background-color: #373738;
+    background-color: #1d1d1d;
     color: white
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .navigation {
-    background-color: #373738;
+    background-color: #1d1d1d;
     padding: 10px 0;
 }
 
@@ -72,7 +72,7 @@ nav  ul li{
 
 /* footer */
 footer {
-    background-color: #373738;
+    background-color: #1d1d1d;
     padding: 20px 0;
     text-align: center;
 }
@@ -87,4 +87,14 @@ footer ul li {
     display: inline-block;
     padding: 0 15px;
     color: #fff;
+}
+
+.myLogo{
+    width: 100%;
+}
+
+.myPhoto{
+    width: 30%;
+    border-radius: 50%;
+    margin: 20px;
 }
